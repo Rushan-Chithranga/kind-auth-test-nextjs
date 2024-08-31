@@ -14,13 +14,13 @@ This is a starter kit to get you started with Kinde on Next.js
 2. Clone the repository
 
 ```
-git clone https://github.com/<your_github_username>/kinde-nextjs-app-router-starter-kit.git
+git clone https://github.com/Rushan-Chithranga/kind-auth-test-nextjs.git
 ```
 
 3. Within the project folder install the dependancies
 
 ```
-> cd kinde-nextjs-app-router-starter-kit
+> cd kind-auth-test-nextjs
 > npm i
 ```
 
